@@ -16,22 +16,20 @@
 
 <div align="center">
   <h3>🚀 Software Engineering Student | 📱 Flutter Developer</h3>
-  <p><i>"Building solutions with code."</i></p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I started studying **Software Engineering in 2022**. I learned the basics with **Python, Java (OOP), and C**. Later, I focused on mobile development and now I specialize in **Flutter**.
+I started studying **Software Engineering in 2022**. I built my foundation with **Python, Java (OOP), and C**. Later, I focused on mobile development and now I specialize in **Flutter**.
 
-I gained professional experience as a student developer at **Muğla Sıtkı Koçman University** and completed my internship at **Virtus R&D**. During my internship, I worked on mobile apps and gained experience running backend services with **Docker**.
+I gained professional experience as a student developer at **Muğla Sıtkı Koçman University Digital Transformation Office** and completed my internship at **Virtus R&D**. During these experiences, I actively contributed to mobile application development processes.
 
-Currently, I am working on **Machine Learning** projects and developing a new mobile application.
-
-* 🔭 **Current Focus:** Machine Learning models & Mobile Development.
-* 🌱 **Learning:** Unreal Engine & Game Development.
-* ⚡ **Fun fact:** I built a full-stack app to manage my father's greenhouse!
+* 🔭 **I’m currently working on:** Machine Learning (Wine Quality), Q-Learning Agents & A new Mobile App.
+* 🎯 **Current Focus:** AI and Game Development.
+* 🌱 **Learning:** Unreal Engine, Game Development & AI.
+* ⚡ **Fun fact:** I built a full-stack app to digitize my father's greenhouse records!
 
 ---
 
@@ -39,23 +37,14 @@ Currently, I am working on **Machine Learning** projects and developing a new mo
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=dart,python,java,c" alt="Languages" />
   
-  <br/>
-
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <h4>Mobile & Backend</h4>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,postgres" alt="Mobile & Backend" />
   
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
+  <h4>Tools & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=git,docker,googlecloud" alt="Tools" />
   
 </div>
 
@@ -65,9 +54,9 @@ Currently, I am working on **Machine Learning** projects and developing a new mo
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **☕ Caffeverse** | A mobile app to compare coffee prices from nearby cafes using Google Maps. | `Flutter` `Firebase` `Google Maps` |
-| **🌱 Greenhouse Management** | A management app for farmers to digitize greenhouse records. | `Flutter` `Supabase` `Firebase (Auth)` |
-| **📇 i_cardApp** | Digital business card application (Internship Project). | `Flutter` `BLoC` |
+| **☕ Caffeverse** | A mobile app to compare coffee prices from nearby cafes using Google Maps. | <img src="https://skillicons.dev/icons?i=flutter,firebase,googlecloud" alt="Stack" /> |
+| **🌱 Greenhouse Management** | A management app for farmers to digitize greenhouse records. | <img src="https://skillicons.dev/icons?i=flutter,supabase,firebase" alt="Stack" /> |
+| **📇 i_cardApp** | Digital business card application (Internship Project). | <img src="https://skillicons.dev/icons?i=flutter,docker" alt="Stack" /> |
 
 ---
 
@@ -79,11 +68,11 @@ Currently, I am working on **Machine Learning** projects and developing a new mo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozyusuf&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
   
   <br/>
-  <sub><i>Note: Most of my recent work is in private repositories.</i></sub>
+  <p><i><b>Note:</b> Most of my recent work is in private repositories.</i></p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozyusuf&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://visit-counter.vercel.app/counter.png?page=ozyusuf/ozyusuf&s=30&c=0077B5&b=0d1117&tb=0d1117" alt="Profile Views" />
 </div>
