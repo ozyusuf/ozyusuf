@@ -1,6 +1,15 @@
 <div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@yusufoz" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+  </p>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Yusuf;Mobile+Developer;Flutter+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&color=33CCFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Yusuf;Mobile+Developer;Flutter+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,9 +22,9 @@
 
 ### 👨‍💻 About Me
 
-I started my software engineering journey in **2022**, building a strong foundation in **Python, Java (OOP), and C (DSA)**. My passion quickly shifted towards mobile development, where I now specialize in **Flutter**.
+I embarked on my software engineering journey in **2022**, establishing a solid foundation in **Python, Java (OOP), and C (DSA)**. My passion swiftly gravitated towards mobile development, where I now specialize in **Flutter**.
 
-I have professional experience contributing to digital transformation projects at **Muğla Sıtkı Koçman University** and developing mobile solutions at **Virtus R&D**. Currently, I'm expanding my horizons into **Machine Learning** and **Reinforcement Learning**, while working on a new "stealth mode" mobile project. 🤫
+I have professional experience contributing to digital transformation initiatives at **Muğla Sıtkı Koçkan University** and crafting mobile solutions at **Virtus R&D**. Currently, I'm delving into **Machine Learning** (Wine Quality Prediction) and **Reinforcement Learning** (Q-Learning Agents) for academic projects. I'm also actively developing another mobile application, exploring new challenges and technologies.
 
 * 🔭 **I’m currently working on:** Machine Learning models (Wine Quality Prediction) & Q-Learning Agents.
 * 🌱 **I’m currently learning:** Unreal Engine & Game Development.
@@ -26,24 +35,7 @@ I have professional experience contributing to digital transformation projects a
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
-  
+  <img src="https://skillicons.dev/icons?i=dart,python,java,c,flutter,firebase,supabase,git,postgresql,googlecloud&perline=6" alt="Tech Stack" />
 </div>
 
 ---
@@ -52,9 +44,9 @@ I have professional experience contributing to digital transformation projects a
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **☕ Caffeverse** | A mobile app to compare coffee prices from nearby cafes using Google Maps API to display locations. | `Flutter` `Firebase` `Google Maps API` |
-| **🌱 Greenhouse Management** | A comprehensive management app for farmers to digitize greenhouse records using clean architecture. | `Flutter` `Supabase` `BLoC` |
-| **📇 i_cardApp** | Digital business card application. Contributed to frontend development during my internship at Virtus R&D. | `Flutter` `BLoC` |
+| **☕ Caffeverse** | A mobile app to compare coffee prices from nearby cafes, utilizing Google Maps API for location display. | <img src="https://skillicons.dev/icons?i=flutter,firebase,googlecloud" alt="Stack Icons" /> |
+| **🌱 Greenhouse Management** | A comprehensive management app for farmers to digitize greenhouse records, developed with clean architecture. | <img src="https://skillicons.dev/icons?i=flutter,supabase" alt="Stack Icons" /> |
+| **📇 i_cardApp** | Digital business card application where I contributed to frontend development during my internship at Virtus R&D. | <img src="https://skillicons.dev/icons?i=flutter" alt="Stack Icons" /> |
 
 ---
 
