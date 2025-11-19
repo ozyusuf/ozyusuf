@@ -1,4 +1,5 @@
 <div align="center">
+  
   <p>
     <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,27 +16,47 @@
 
 <div align="center">
   <h3>🚀 Software Engineering Student | 📱 Flutter Developer</h3>
-  <p><i>"Transforming ideas into mobile experiences."</i></p>
+  <p><i>"Building solutions with code."</i></p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I embarked on my software engineering journey in **2022**, establishing a solid foundation in **Python, Java (OOP), and C (DSA)**. My passion swiftly gravitated towards mobile development, where I now specialize in **Flutter**.
+I started studying **Software Engineering in 2022**. I learned the basics with **Python, Java (OOP), and C**. Later, I focused on mobile development and now I specialize in **Flutter**.
 
-I have professional experience contributing to digital transformation initiatives at **Muğla Sıtkı Koçkan University** and crafting mobile solutions at **Virtus R&D**. Currently, I'm delving into **Machine Learning** (Wine Quality Prediction) and **Reinforcement Learning** (Q-Learning Agents) for academic projects. I'm also actively developing another mobile application, exploring new challenges and technologies.
+I gained professional experience as a student developer at **Muğla Sıtkı Koçman University** and completed my internship at **Virtus R&D**. During my internship, I worked on mobile apps and gained experience running backend services with **Docker**.
 
-* 🔭 **I’m currently working on:** Machine Learning models (Wine Quality Prediction) & Q-Learning Agents.
-* 🌱 **I’m currently learning:** Unreal Engine & Game Development.
-* ⚡ **Fun fact:** I built a full-stack app to digitize my father's greenhouse records!
+Currently, I am working on **Machine Learning** projects and developing a new mobile application.
+
+* 🔭 **Current Focus:** Machine Learning models & Mobile Development.
+* 🌱 **Learning:** Unreal Engine & Game Development.
+* ⚡ **Fun fact:** I built a full-stack app to manage my father's greenhouse!
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,java,c,flutter,firebase,supabase,git,postgresql,googlecloud&perline=6" alt="Tech Stack" />
+
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
+  
 </div>
 
 ---
@@ -44,9 +65,9 @@ I have professional experience contributing to digital transformation initiative
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **☕ Caffeverse** | A mobile app to compare coffee prices from nearby cafes, utilizing Google Maps API for location display. | <img src="https://skillicons.dev/icons?i=flutter,firebase,googlecloud" alt="Stack Icons" /> |
-| **🌱 Greenhouse Management** | A comprehensive management app for farmers to digitize greenhouse records, developed with clean architecture. | <img src="https://skillicons.dev/icons?i=flutter,supabase" alt="Stack Icons" /> |
-| **📇 i_cardApp** | Digital business card application where I contributed to frontend development during my internship at Virtus R&D. | <img src="https://skillicons.dev/icons?i=flutter" alt="Stack Icons" /> |
+| **☕ Caffeverse** | A mobile app to compare coffee prices from nearby cafes using Google Maps. | `Flutter` `Firebase` `Google Maps` |
+| **🌱 Greenhouse Management** | A management app for farmers to digitize greenhouse records. | `Flutter` `Supabase` `Firebase (Auth)` |
+| **📇 i_cardApp** | Digital business card application (Internship Project). | `Flutter` `BLoC` |
 
 ---
 
@@ -56,6 +77,9 @@ I have professional experience contributing to digital transformation initiative
   <img src="https://github-readme-stats.vercel.app/api?username=ozyusuf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Github Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozyusuf&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  
+  <br/>
+  <sub><i>Note: Most of my recent work is in private repositories.</i></sub>
 </div>
 
 ---
