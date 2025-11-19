@@ -24,7 +24,7 @@
 
 I started studying **Software Engineering in 2022**. I built my foundation with **Python, Java (OOP), and C**. Later, I focused on mobile development and now I specialize in **Flutter**.
 
-I gained professional experience as a student developer at **Muğla Sıtkı Koçman University Digital Transformation Office** and completed my internship at **Virtus R&D**. During these experiences, I actively contributed to mobile application development processes.
+I gained professional experience as a student developer at **Muğla Sıtkı Koçman University Digital Transformation Office** working on **Web technologies** (HTML, CSS, JS), and completed my internship at **Virtus R&D** focusing on **Mobile development**.
 
 * 🔭 **I’m currently working on:** Machine Learning (Wine Quality), Q-Learning Agents & A new Mobile App.
 * 🎯 **Current Focus:** AI and Game Development.
@@ -37,8 +37,8 @@ I gained professional experience as a student developer at **Muğla Sıtkı Koç
 
 <div align="center">
 
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=dart,python,java,c" alt="Languages" />
+  <h4>Languages & Web</h4>
+  <img src="https://skillicons.dev/icons?i=dart,python,java,c,html,css,js" alt="Languages and Web" />
   
   <h4>Mobile & Backend</h4>
   <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,postgres" alt="Mobile & Backend" />
@@ -74,5 +74,5 @@ I gained professional experience as a student developer at **Muğla Sıtkı Koç
 ---
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=ozyusuf/ozyusuf&s=30&c=0077B5&b=0d1117&tb=0d1117" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fozyusuf%2Fozyusuf&count_bg=%2333CCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </div>
