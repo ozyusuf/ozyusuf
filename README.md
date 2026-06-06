@@ -11,19 +11,23 @@
 
   <p>
     <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
+      <img height="36" src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" alt="LinkedIn" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://yusuf-oz.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=161B22" alt="Portfolio" />
+      <img height="36" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Portfolio" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@yusufoz" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=161B22" alt="Medium" />
+      <img height="36" src="https://cdn.simpleicons.org/medium/00AB6C" alt="Medium" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.menukyk.com.tr/" target="_blank">
-      <img src="https://img.shields.io/badge/MenuKYK-161B22?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=161B22" alt="MenuKYK" />
+      <img height="36" src="https://cdn.simpleicons.org/googlechrome/33CCFF" alt="MenuKYK" />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:ysfoz123@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Gmail" />
+      <img height="36" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />
     </a>
   </p>
 
