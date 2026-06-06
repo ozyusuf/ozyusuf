@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=33CCFF&center=true&vCenter=true&width=520&height=70&lines=Hi+There!+%F0%9F%91%8B+I'm+Yusuf;Software+Engineering+Student;Flutter+%26+Mobile+Developer;Building+real-world+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=400&color=33CCFF&center=true&vCenter=true&width=520&height=70&lines=Hi+There!+%F0%9F%91%8B+I'm+Yusuf;Software+Engineering+Student;Flutter+%26+Mobile+Developer;Building+real-world+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p>
@@ -39,7 +39,7 @@ I'm a **Software Engineering student** who began my degree in 2022. I built a st
 
 - 🔭 **Working on:** [MenuKYK](https://www.menukyk.com.tr/) (SaaS PWA) & new Flutter apps
 - 🌱 **Learning:** Autonomous Driving Technologies *(National Technology Academy — Ministry of Industry & Technology)*
-- 👥 **Board Member** @ Muğla Sıtkı Koçman University Data Science Community
+- 👥 **Board Member** @ Mugla Sitki Kocman University Data Science Community
 - ⚡ **Fun fact:** I built a full-stack app to digitize my father's greenhouse records!
 
 ---
@@ -56,10 +56,14 @@ I'm a **Software Engineering student** who began my degree in 2022. I built a st
   <img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind" alt="Frontend & Mobile" />
 
   <h4>Backend, Cloud & ML</h4>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,gcp,sklearn,googlemaps" alt="Backend, Cloud & ML" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,gcp,sklearn" alt="Backend, Cloud & ML" />
 
-  <h4>Tools & AI</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,claude,gemini" alt="Tools & AI" />
+  <h4>Tools & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Tools & DevOps" />
+
+  <h4>AI Assistants</h4>
+  <img src="https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=161B22" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=161B22" alt="Gemini" />
 
 </div>
 
