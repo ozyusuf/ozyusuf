@@ -10,25 +10,15 @@
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/" target="_blank">
-      <img height="36" src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://yusuf-oz.vercel.app" target="_blank">
-      <img height="36" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Portfolio" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@yusufoz" target="_blank">
-      <img height="36" src="https://cdn.simpleicons.org/medium/00AB6C" alt="Medium" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.menukyk.com.tr/" target="_blank">
-      <img height="36" src="https://cdn.simpleicons.org/googlechrome/33CCFF" alt="MenuKYK" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:ysfoz123@gmail.com">
-      <img height="36" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />
-    </a>
+    <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/" target="_blank"><img height="18" src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" alt="LinkedIn" />&nbsp;<b>LinkedIn</b></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://yusuf-oz.vercel.app" target="_blank">🌐&nbsp;<b>Portfolio</b></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://medium.com/@yusufoz" target="_blank"><img height="18" src="https://cdn.simpleicons.org/medium/00AB6C" alt="Medium" />&nbsp;<b>Medium</b></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://www.menukyk.com.tr/" target="_blank">🍽️&nbsp;<b>MenuKYK</b></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="mailto:ysfoz123@gmail.com"><img height="18" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />&nbsp;<b>Gmail</b></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=ozyusuf&color=33CCFF&style=flat-square&label=Profile+Views" alt="Profile Views" />
