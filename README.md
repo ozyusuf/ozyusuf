@@ -1,5 +1,6 @@
 <!-- ====================== HEADER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahmut%20Yusuf%20%C3%96z&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Mobile%20%26%20Web&descAlignY=58&descSize=16" alt="header" />
+<h1 align="center">Mahmut Yusuf Öz</h1>
+<h3 align="center">Software Engineering Student • Flutter Developer • Mobile & Web</h3>
 
 <!-- ====================== INTRO ====================== -->
 <div align="center">
@@ -62,8 +63,9 @@ I'm a **Software Engineering student** who began my degree in 2022. I built a st
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Tools & DevOps" />
 
   <h4>AI Assistants</h4>
-  <img src="https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=161B22" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=161B22" alt="Gemini" />
+  <img height="42" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/googlegemini/4796E3" alt="Gemini" />
 
 </div>
 
@@ -105,4 +107,4 @@ I'm a **Software Engineering student** who began my degree in 2022. I built a st
 </div>
 
 <!-- ====================== FOOTER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+<p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
