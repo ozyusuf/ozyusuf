@@ -1,28 +1,28 @@
 <!-- ====================== HEADER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahmut%20Yusuf%20%C3%96z&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Autonomous%20Systems%20in%20Training&descAlignY=58&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahmut%20Yusuf%20%C3%96z&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Mobile%20%26%20Web&descAlignY=58&descSize=16" alt="header" />
 
 <!-- ====================== INTRO ====================== -->
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=33CCFF&center=true&vCenter=true&width=520&height=70&lines=Hi+There!+%F0%9F%91%8B+I'm+Yusuf;Software+Engineering+Student;Flutter+%26+Mobile+Developer;Autonomous+Driving+Enthusiast+%F0%9F%9A%97;AI+%26+Reinforcement+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=33CCFF&center=true&vCenter=true&width=520&height=70&lines=Hi+There!+%F0%9F%91%8B+I'm+Yusuf;Software+Engineering+Student;Flutter+%26+Mobile+Developer;Building+real-world+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" alt="LinkedIn" />
     </a>
     <a href="https://yusuf-oz.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=161B22" alt="Portfolio" />
     </a>
     <a href="https://medium.com/@yusufoz" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+      <img src="https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=161B22" alt="Medium" />
     </a>
     <a href="https://www.menukyk.com.tr/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Project-MenuKYK-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MenuKYK" />
+      <img src="https://img.shields.io/badge/MenuKYK-161B22?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=161B22" alt="MenuKYK" />
     </a>
     <a href="mailto:ysfoz123@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Gmail" />
     </a>
   </p>
 
@@ -35,14 +35,11 @@
 <!-- ====================== ABOUT ====================== -->
 ### 👨‍💻 About Me
 
-I'm a **Software Engineering student** building toward a career at the intersection of **embedded systems, perception, and autonomous decision-making**.
+I'm a **Software Engineering student** who began my degree in 2022. I built a strong foundation in **Python, Java (OOP), and C**, then specialized in **Flutter** and modern web development — shipping mobile apps to Google Play and a **PWA serving 6,600+ monthly users**. I love turning real-world problems into clean, scalable products.
 
-I started in 2022 with a strong foundation in **Python, Java (OOP), and C**, then specialized in **Flutter** — shipping mobile apps to Google Play and a **PWA serving 6,600+ monthly users**. Today I'm deepening my expertise in **Autonomous Driving Technologies** through Turkey's Ministry of Industry–supported **National Technology Academy** program, alongside hands-on work in **reinforcement learning and multi-agent systems**.
-
-- 🚗 **Currently specializing in:** Autonomous Driving Technologies *(National Technology Academy — Ministry of Industry & Technology)*
-- 🔭 **Working on:** [MenuKYK](https://menukyk.com.tr) (SaaS PWA) & multi-agent reinforcement learning
-- 🌱 **Learning:** Perception, embedded systems & autonomous decision-making
-- 👥 **Board Member** @ University Data Science Community
+- 🔭 **Working on:** [MenuKYK](https://www.menukyk.com.tr/) (SaaS PWA) & new Flutter apps
+- 🌱 **Learning:** Autonomous Driving Technologies *(National Technology Academy — Ministry of Industry & Technology)*
+- 👥 **Board Member** @ Muğla Sıtkı Koçman University Data Science Community
 - ⚡ **Fun fact:** I built a full-stack app to digitize my father's greenhouse records!
 
 ---
@@ -58,15 +55,11 @@ I started in 2022 with a strong foundation in **Python, Java (OOP), and C**, the
   <h4>Frontend & Mobile</h4>
   <img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind" alt="Frontend & Mobile" />
 
-  <h4>Backend, Cloud & AI</h4>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,gcp" alt="Backend & Cloud" />
-  <br/>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
+  <h4>Backend, Cloud & ML</h4>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,gcp,sklearn,googlemaps" alt="Backend, Cloud & ML" />
 
-  <h4>Tools & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Tools" />
+  <h4>Tools & AI</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,claude,gemini" alt="Tools & AI" />
 
 </div>
 
