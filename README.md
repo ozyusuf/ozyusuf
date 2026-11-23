@@ -1,104 +1,71 @@
-<!-- ====================== HEADER ====================== -->
-<h1 align="center">Mahmut Yusuf Öz</h1>
-<h3 align="center">Software Engineering Student • Flutter Developer • Mobile & Web</h3>
+<h1 align="center">Yusuf Öz</h1>
+<p align="center"><b>Software engineering student · Building products with LLMs and AI coding agents</b></p>
 
-<!-- ====================== INTRO ====================== -->
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/"><img height="18" src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" alt="" />&nbsp;<b>LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://yusuf-oz.vercel.app">🌐&nbsp;<b>Portfolio</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://medium.com/@yusufoz"><img height="18" src="https://cdn.simpleicons.org/medium/00AB6C" alt="" />&nbsp;<b>Medium</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.menukyk.com.tr/">🍽️&nbsp;<b>MenuKYK</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:ysfoz123@gmail.com"><img height="18" src="https://cdn.simpleicons.org/gmail/EA4335" alt="" />&nbsp;<b>Gmail</b></a>
+</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=400&color=33CCFF&center=true&vCenter=true&width=520&height=70&lines=Hi+There!+%F0%9F%91%8B+I'm+Yusuf;Software+Engineering+Student;Flutter+%26+Mobile+Developer;Building+real-world+products+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ozyusuf&color=2da44e&style=flat-square&label=Profile+Views" alt="Profile views" /></p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/yusuf-%C3%B6z-601025309/" target="_blank"><img height="18" src="https://img.icons8.com/ios-filled/100/0A66C2/linkedin.png" alt="LinkedIn" />&nbsp;<b>LinkedIn</b></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://yusuf-oz.vercel.app" target="_blank">🌐&nbsp;<b>Portfolio</b></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://medium.com/@yusufoz" target="_blank"><img height="18" src="https://cdn.simpleicons.org/medium/00AB6C" alt="Medium" />&nbsp;<b>Medium</b></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="https://www.menukyk.com.tr/" target="_blank">🍽️&nbsp;<b>MenuKYK</b></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="mailto:ysfoz123@gmail.com"><img height="18" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" />&nbsp;<b>Gmail</b></a>
-  </p>
+I'm a fourth-year software engineering student at Muğla Sıtkı Koçman University in Türkiye. I build products with LLMs and AI coding agents. Claude Code writes most of the code; I write the specs and the project rules, review its plans, and check the result with tests and measurements.
 
-  <img src="https://komarev.com/ghpvc/?username=ozyusuf&color=33CCFF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+I'm looking for an **AI engineering internship**.
 
-</div>
+### What I've built
 
----
+| Project | What it is |
+| :--- | :--- |
+| **[MenuKYK](https://www.menukyk.com.tr/)** | Daily menus for KYK dorms across Türkiye, used by 9,200+ students a month. Students upload a photo of the monthly menu, Gemini turns it into JSON, and an admin approves it. I picked the model by running six Gemini models against menus I had checked by hand: the one in use read 29 of 31 days right. *Private repo.* |
+| **[SeraSkop](https://yusuf-oz.vercel.app/en#now)** | My graduation project. Early warnings for cucumber disease in four family greenhouses, from cheap Bluetooth sensors, the weather forecast and leaf photos. Running in the field this season. *Private repo.* |
+| **[Ariadne](https://github.com/scirocco-spaceapps/ariadne)** | NASA Space Apps 2026, team of six. A walking map of Jezero crater on Mars that shows at every moment whether the astronaut can still get back to base. I planned the project and the team's tasks, and built the map, the interface and the server. |
+| **[Agent Office 3D](https://github.com/ozyusuf/agent-office-3d)** | A live 3D view of what a Claude Code agent is doing, driven only by its hook events. 96 unit tests. |
+| **[Greenhouse Management](https://play.google.com/store/apps/details?id=com.devyusufoz.serayonetimi)** | An Android app on Google Play that replaced my family's paper greenhouse records. |
 
-<!-- ====================== ABOUT ====================== -->
-### 👨‍💻 About Me
+### How I work with agents
 
-I'm a **Software Engineering student** who began my degree in 2022. I built a strong foundation in **Python, Java (OOP), and C**, then specialized in **Flutter** and modern web development — shipping mobile apps to Google Play and a **PWA serving 6,600+ monthly users**. I love turning real-world problems into clean, scalable products.
+- Every project has a `CLAUDE.md` with its rules and past decisions, so each session starts from the same ground.
+- I read the agent's plan before it writes code, and I check the result myself with tests, in the browser or with a measurement.
+- When a model is part of the product, I measure how often it's right before I trust it.
 
-- 🔭 **Working on:** [MenuKYK](https://www.menukyk.com.tr/) (SaaS PWA) & new Flutter apps
-- 🌱 **Learning:** Autonomous Driving Technologies *(National Technology Academy — Ministry of Industry & Technology)*
-- 👥 **Board Member** @ Mugla Sitki Kocman University Data Science Community
-- ⚡ **Fun fact:** I built a full-stack app to digitize my father's greenhouse records!
+### Tools
 
----
+**AI and agents**
 
-<!-- ====================== TECH STACK ====================== -->
-### 🛠️ Tech Stack
+<img height="40" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;<img height="40" src="https://cdn.simpleicons.org/googlegemini/4796E3" alt="Gemini API" title="Gemini API" />
 
-<div align="center">
+**What my projects run on**
 
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=dart,python,java,c,js,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,threejs,supabase,postgres,py,fastapi,flutter,docker,git" alt="TypeScript, React, Next.js, Node.js, three.js, Supabase, Postgres, Python, FastAPI, Flutter, Docker, Git" />
 
-  <h4>Frontend & Mobile</h4>
-  <img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind" alt="Frontend & Mobile" />
+### Now
 
-  <h4>Backend, Cloud & ML</h4>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,gcp,sklearn" alt="Backend, Cloud & ML" />
+- SeraSkop in the greenhouses, 2026–27 season
+- Team captain for Teknofest 2027, AI in Aviation
+- Learning to build on the Claude API and to write my own agents
+- Writing about what I build: [a 3D office for my coding agent](https://yusuf-oz.vercel.app/en/writing/agent-office-3d), [flashing pvvx firmware on a cheap sensor](https://yusuf-oz.vercel.app/en/writing/lywsd03mmc-pvvx)
 
-  <h4>Tools & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="Tools & DevOps" />
+### Activity
 
-  <h4>AI Assistants</h4>
-  <img height="42" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/googlegemini/4796E3" alt="Gemini" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ozyusuf&theme=dark&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
+    <img src="https://streak-stats.demolab.com?user=ozyusuf&hide_border=true&ring=1a7f37&fire=1a7f37&currStreakLabel=1a7f37" alt="Contribution streak" />
+  </picture>
+</p>
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ozyusuf&bg_color=0d1117&color=c9d1d9&line=3fb950&point=ffffff&hide_border=true&area=true&area_color=3fb950" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozyusuf&bg_color=ffffff&color=1f2328&line=1a7f37&point=1a7f37&hide_border=true&area=true&area_color=1a7f37" alt="Contribution graph" />
+  </picture>
+</p>
 
----
-
-<!-- ====================== PROJECTS ====================== -->
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🍽️ [MenuKYK](https://www.menukyk.com.tr/)** | Serverless SaaS PWA automating dormitory menu tracking for KYK dorms across Turkey — **6,600+ monthly visitors**. Uses Gemini AI to verify crowdsourced uploads. | <img src="https://skillicons.dev/icons?i=react,vite,supabase,tailwind" alt="Stack" /> |
-| **🌱 [Greenhouse Management](https://play.google.com/store/apps/details?id=com.devyusufoz.serayonetimi)** | Full-featured app digitizing manual greenhouse records — **published on Google Play**. Built with Clean Architecture. | <img src="https://skillicons.dev/icons?i=flutter,supabase,firebase" alt="Stack" /> |
-| **🤖 [RL-Drive Multi-Agent](https://github.com/ozyusuf/RL-Drive-MultiAgent)** | Multi-agent autonomous driving simulation using Q-Learning, reward shaping & collision-avoidance logic. | <img src="https://skillicons.dev/icons?i=python" alt="Stack" /> |
-| **🍷 [Wine Quality Prediction](https://wine-quality-website.vercel.app/)** | Deployed ML model predicting wine quality from physicochemical properties, with a live web demo. | <img src="https://skillicons.dev/icons?i=python,sklearn" alt="Stack" /> |
-| **☕ Caffeverse** | Location-based app comparing coffee prices from nearby cafes via Google Maps. | <img src="https://skillicons.dev/icons?i=flutter,firebase,gcp" alt="Stack" /> |
-| **📇 CardApp** | Digital business card application for professional networking *(Internship Project)*. | <img src="https://skillicons.dev/icons?i=flutter,docker" alt="Stack" /> |
-
----
-
-<!-- ====================== STATS ====================== -->
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ozyusuf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=33CCFF&title_color=33CCFF" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ozyusuf&theme=radical&hide_border=true&background=0d1117&ring=33CCFF&fire=33CCFF&currStreakLabel=33CCFF" alt="GitHub Streak" />
-
-  <br/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozyusuf&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=33CCFF&langs_count=8" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozyusuf&theme=react-dark&bg_color=0d1117&color=33CCFF&line=33CCFF&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />
-
-  <br/>
-  <p><i><b>Note:</b> Most of my recent work lives in private repositories.</i></p>
-
-</div>
-
-<!-- ====================== FOOTER ====================== -->
-<p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
+<p align="center"><sub>Most of my work lives in private repositories. These graphs count those contributions too.</sub></p>
